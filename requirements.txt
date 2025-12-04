@@ -1,0 +1,21 @@
+#Add the project dependencies to this file
+# Team Project Planner - Dependencies
+#
+# This project uses only Python standard library modules!
+# No external dependencies required.
+#
+# Standard library modules used:
+# - json (for JSON parsing and serialization)
+# - os (for file and directory operations)
+# - datetime (for timestamps)
+#
+# Python version: 3.7+
+#
+# To verify your Python version:
+# python --version
+#
+# The project is intentionally kept dependency-free for:
+# - Easy setup and deployment
+# - No version conflicts
+# - Minimal maintenance overhead
+# - Maximum portability
