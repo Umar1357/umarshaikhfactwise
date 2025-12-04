@@ -1,0 +1,46 @@
+{
+  "user_1": [
+    {
+      "id": "team_1",
+      "name": "Backend Team",
+      "description": "Handles all backend services and APIs",
+      "creation_time": "2025-12-04 13:31:13"
+    },
+    {
+      "id": "team_3",
+      "name": "Development Team",
+      "description": "Main development team",
+      "creation_time": "2025-12-04 13:42:33"
+    }
+  ],
+  "user_2": [
+    {
+      "id": "team_2",
+      "name": "Frontend Team",
+      "description": "Works on UI/UX and client-side code",
+      "creation_time": "2025-12-04 13:31:13"
+    },
+    {
+      "id": "team_1",
+      "name": "Backend Team",
+      "description": "Backend services, APIs, and database management",
+      "creation_time": "2025-12-04 13:31:13"
+    }
+  ],
+  "user_3": [
+    {
+      "id": "team_1",
+      "name": "Backend Team",
+      "description": "Backend services, APIs, and database management",
+      "creation_time": "2025-12-04 13:31:13"
+    }
+  ],
+  "user_4": [
+    {
+      "id": "team_1",
+      "name": "Backend Team",
+      "description": "Handles all backend services and APIs",
+      "creation_time": "2025-12-04 13:31:13"
+    }
+  ]
+}

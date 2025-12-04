@@ -1,0 +1,66 @@
+{
+  "task_1": {
+    "title": "Design login page",
+    "description": "Create wireframes and mockups for login",
+    "user_id": "user_1",
+    "board_id": "board_1",
+    "creation_time": "2025-12-04 13:42:33",
+    "status": "COMPLETE"
+  },
+  "task_2": {
+    "title": "Implement login API",
+    "description": "Create REST API endpoints for authentication",
+    "user_id": "user_2",
+    "board_id": "board_1",
+    "creation_time": "2025-12-04 13:42:33",
+    "status": "COMPLETE"
+  },
+  "task_3": {
+    "title": "Write unit tests",
+    "description": "Test coverage for authentication module",
+    "user_id": "user_3",
+    "board_id": "board_1",
+    "creation_time": "2025-12-04 13:42:33",
+    "status": "COMPLETE"
+  },
+  "task_4": {
+    "title": "Setup database schema",
+    "description": "Create users table and indexes",
+    "user_id": "user_4",
+    "board_id": "board_1",
+    "creation_time": "2025-12-04 13:42:33",
+    "status": "COMPLETE"
+  },
+  "task_5": {
+    "title": "Design dashboard layout",
+    "description": "Work on design dashboard layout",
+    "user_id": "user_1",
+    "board_id": "board_2",
+    "creation_time": "2025-12-04 13:42:33",
+    "status": "OPEN"
+  },
+  "task_6": {
+    "title": "Create dashboard API",
+    "description": "Work on create dashboard api",
+    "user_id": "user_2",
+    "board_id": "board_2",
+    "creation_time": "2025-12-04 13:42:33",
+    "status": "OPEN"
+  },
+  "task_7": {
+    "title": "Implement charts",
+    "description": "Work on implement charts",
+    "user_id": "user_3",
+    "board_id": "board_2",
+    "creation_time": "2025-12-04 13:42:33",
+    "status": "OPEN"
+  },
+  "task_8": {
+    "title": "Add analytics",
+    "description": "Work on add analytics",
+    "user_id": "user_4",
+    "board_id": "board_2",
+    "creation_time": "2025-12-04 13:42:33",
+    "status": "OPEN"
+  }
+}
